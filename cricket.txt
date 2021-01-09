@@ -3,9 +3,10 @@
 
 welcome to cricket
 
-bat
-ball
+bat // kohli
+ball // natarajan
 umpires
 fielders
 batsmen
 bowlers
+
